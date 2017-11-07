@@ -1,0 +1,105 @@
+﻿.bomtab a{
+    border:none;
+    margin-left:4px;
+    height:50px;
+    width:19%;
+    float:left;
+    box-shadow:-5px 5px 20px #888888;
+    text-align:center;
+    line-height:30px;
+    font-weight:bold;
+    font-family:"黑体";
+    font-size:14px;
+}
+.bomtab a:hover{
+    background:#b2b4b4;
+}
+.scfoot {
+    height:60px;
+    margin-top:10px;
+}
+.clickbook {
+    height:150px;
+    background:#94bcbc;
+}
+.clickbook img{
+    width:100px;
+    height:120px;
+    float:left;
+    margin-top:15px;
+}
+.bookm {
+    width:60%;
+    height:150px;
+    float:right;
+}
+.bookn {
+    width:100%;
+    height:40px;
+    margin-top:30px;
+    line-height:40px;
+    text-align:left;
+    font-weight:bold;
+    font-size:24px;
+}
+.bgk {
+    height:10px;
+    background:#dbdede;
+}
+.jdu {
+    width:100%;
+    height:20px;
+    line-height:20px;
+    text-align:left;
+}
+.jdu span{
+    margin-left:5px;
+    color:#00ff21;
+}
+.btnji {
+    width:100%;
+    height:50px;
+}
+.btnji button{
+    margin-left:10px;
+    width:80px;
+}
+.jiesao {
+    margin-top:10px;
+    height:40px;
+    text-align:center;
+    line-height:37px;
+    font-size:24px;
+    color:#1864f3;
+    border-bottom:3px solid #8cf79c;
+    background:#f8e8e8;
+}
+.jscon {
+    height:auto;
+}
+.jscon p{
+    text-indent:2em;
+    color:#c1bfbf;
+}
+.listtit {
+    margin-top:10px;
+    height:40px;
+    text-align:left;
+    line-height:37px;
+    font-size:24px;
+    color:#1864f3;
+    border-bottom:3px solid #8cf79c;
+    background:#f8e8e8;
+}
+.booklist {
+    height:auto;
+}
+.booklist li{
+    list-style:none;
+    height:40px;
+    line-height:40px;
+    border-bottom:dotted 1px #c1bfbf;
+}
+.booklist li:hover{
+    background:#c1bfbf;
+}

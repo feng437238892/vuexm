@@ -1,0 +1,129 @@
+﻿.header{
+    height:40px;
+    background:#ffffff;
+    font-weight:bold;
+    text-align:center;
+    position:fixed;
+    top:0px;
+    width:100%;
+    line-height:40px;
+    font-size:24px;
+    box-shadow:0 5px 10px #01B468;
+}
+.footer{
+    position:fixed;
+    bottom:0px;
+    height:50px;
+    width:100%;
+    background:#ffffff;
+    border-top:1px solid #b2b4b4;
+}
+.content{
+    width:100%;
+    margin:0px auto;
+    height:80px;
+    border-bottom:solid 1px #b2b4b4;
+    margin-top:5px;
+}
+.bomtab a{
+    border:none;
+    margin-left:4px;
+    height:50px;
+    width:19%;
+    float:left;
+    box-shadow:-5px 5px 20px #888888;
+    text-align:center;
+    line-height:30px;
+    font-weight:bold;
+    font-family:"黑体";
+    font-size:14px;
+}
+.bomtab a:hover{
+    background:#b2b4b4;
+}
+.hoemimg{
+    width:100%;
+    height:600px;
+    background:#b6ff00;
+}
+.navcls{
+    float:left;
+    border:none;
+    margin-left:5px;
+    height:50px;
+    border-radius:50px;
+    width:50px;
+}
+.navcls2{
+    float:left;
+    border:none;
+    margin-left:1px;
+    height:20px;
+    font-size:10px;
+    line-height:20px;
+    text-align:center;
+    width:53px;
+}
+.bj1{
+    background:#FF359A url(../image/indexicon.png) no-repeat;
+    margin-left:30px;
+    background-position:55px -55px;
+    background-size:50px 50px;
+}
+.bj2{
+    background:#FFFF37;
+}
+.bj3{
+    background:#FF8000;
+}
+.bj4{
+    background:#0072E3;
+}
+.bj5{
+    background:#01B468;
+}
+.bookli{
+    height:130px;
+    margin-top:10px;
+    box-shadow:0 -5px 10px #b2b4b4;
+}
+.bookli img{
+    float:left;
+    margin-top:5px;
+    width:25%;
+    height:120px;
+}
+.bookTitle{
+    font-size:18px;
+    font-weight:bold;
+    height:30px;
+    line-height:30px;
+    text-align:center;
+}
+.bookCon{
+    text-indent:2em;
+    height:60px;
+}
+.bookmsg{
+    height:20px;
+    font-size:9px;
+}
+.bookmsg span{
+    margin-left:10px;
+}
+.scfoot {
+    height:60px;
+    margin-top:10px;
+}
+.blitil {
+    height:50px;
+    background:url(../image/topb.jpg) no-repeat;
+    background-size:100% 50px;
+}
+.lookmore {
+    height:60px;
+    border-top:1px solid #b2b4b4;
+}
+.more {
+    margin-top:8px;
+}

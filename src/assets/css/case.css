@@ -1,0 +1,94 @@
+﻿.footer{
+    position:fixed;
+    bottom:0px;
+    height:50px;
+    width:100%;
+    background:#ffffff;
+    border-top:1px solid #b2b4b4;
+}
+.bomtab a{
+    border:none;
+    margin-left:4px;
+    height:50px;
+    width:19%;
+    float:left;
+    box-shadow:-5px 5px 20px #888888;
+    text-align:center;
+    line-height:30px;
+    font-weight:bold;
+    font-family:"黑体";
+    font-size:14px;
+}
+.bomtab a:hover{
+    background:#b2b4b4;
+}
+.scfoot {
+    height:60px;
+    margin-top:10px;
+}
+.clickbook {
+    height:150px;
+    background:#94bcbc;
+}
+.clickbook img{
+    width:100px;
+    height:120px;
+    float:left;
+    margin-top:15px;
+}
+.bookm {
+    width:50%;
+    height:150px;
+    float:right;
+}
+.bookn {
+    width:100%;
+    height:40px;
+    margin-top:30px;
+    line-height:40px;
+    text-align:center;
+    font-weight:bold;
+    font-size:24px;
+}
+.jdu {
+    width:100%;
+    height:20px;
+    line-height:20px;
+    text-align:center;
+}
+.btnji {
+    width:100%;
+    height:50px;
+}
+.btnji button{
+    width:80px;
+    margin-left:40px;
+}
+.clsjing {
+    height:auto;
+}
+.mfbook {
+    width:100px;
+    height:150px;
+    float:left;
+    margin-left:5px;
+    margin-top:5px;
+}
+.mfbook img {
+    width:100%;
+    height:120px;
+}
+.bookname {
+    width:100%;
+    height:15px;
+    font-size:12px;
+    line-height:15px;
+    font-weight:bold;
+}
+.bookautor {
+    width:100%;
+    height:15px;
+    font-size:12px;
+    line-height:15px;
+    color:#b2b4b4;
+}

@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>小书屋</title>
+    <meta charset="utf-8" />
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/self.css" rel="stylesheet" />
+    <script src="script/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="script/self.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+</head>
+<body>
+    <div class="header container-fluid">
+        请先登录
+    </div>
+    <div class="footer container-fluid">
+        <div class="list-group bomtab">
+            <a href="case.html" class="list-group-item" style="margin-left:0px;">书架</a>
+            <a href="free.html" class="list-group-item">免费</a>
+            <a href="index.html" class="list-group-item">书城</a>
+            <a href="create.html" class="list-group-item">搜索</a>
+            <a href="self.html" class="list-group-item">我的</a>
+        </div>
+    </div>
+    <div class="container-fluid loginfrom">
+        <form action="#" method="post">
+            <div class="input-group">
+                <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                <input type="text" class="form-control" placeholder="账号">
+            </div>
+            <div class="input-group">
+                <span class="input-group-addon"><span class="glyphicon glyphicon-asterisk"></span></span>
+                <input type="password" class="form-control" placeholder="密码">
+            </div>
+            <button type="button" class="btn btn-info btn-lg btn-block">登录</button>
+        </form>
+        <button type="button" class="btn btn-info btn-lg btn-block" onclick="window.location.href = 'regist.html'; ">注册</button>
+        <button type="button" class="btn btn-success history" onclick="history.go(-1)"><span class="glyphicon glyphicon-chevron-left"></span>返回</button>
+    </div>
+    <div class="container-fluid scfoot">
+
+    </div>
+</body>
+</html>

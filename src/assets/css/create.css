@@ -1,0 +1,90 @@
+﻿.header{
+    height:40px;
+    background:#ffffff;
+    font-weight:bold;
+    text-align:center;
+    position:fixed;
+    top:0px;
+    width:100%;
+    line-height:40px;
+    font-size:24px;
+    box-shadow:0 5px 10px #dbdede;
+}
+.searchself {
+    height:30px;
+    margin-top:5px;
+}
+.form-control {
+    width:100px;
+}
+.footer{
+    position:fixed;
+    bottom:0px;
+    height:50px;
+    width:100%;
+    background:#ffffff;
+    border-top:1px solid #b2b4b4;
+}
+.bomtab a{
+    border:none;
+    margin-left:4px;
+    height:50px;
+    width:19%;
+    float:left;
+    box-shadow:-5px 5px 20px #888888;
+    text-align:center;
+    line-height:30px;
+    font-weight:bold;
+    font-family:"黑体";
+    font-size:14px;
+}
+.bomtab a:hover{
+    background:#b2b4b4;
+}
+.scfoot {
+    height:60px;
+}
+.booklab {
+    margin-top:50px;
+    height:130px;
+}
+.booklab span {
+    margin-top:10px;
+    cursor:pointer;
+    font-size:20px;
+    display: inline-block;/*为标签设置这个属性才不会拥挤*/
+}
+.bgk {
+    height:10px;
+    background:#dbdede;
+}
+.bookli{
+    height:130px;
+    margin-top:10px;
+    box-shadow:0 -5px 10px #b2b4b4;
+}
+.bookli img{
+    float:left;
+    margin-top:5px;
+    width:25%;
+    height:120px;
+}
+.bookTitle{
+    font-size:18px;
+    font-weight:bold;
+    height:30px;
+    line-height:30px;
+    text-align:center;
+}
+.bookCon{
+    text-indent:2em;
+    height:60px;
+}
+.bookmsg{
+    height:20px;
+    font-size:9px;
+}
+.bookmsg span{
+    margin-left:10px;
+}
+

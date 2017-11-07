@@ -1,0 +1,111 @@
+﻿.header{
+    height:40px;
+    background:#ffffff;
+    font-weight:bold;
+    text-align:center;
+    position:fixed;
+    top:0px;
+    width:100%;
+    line-height:40px;
+    font-size:24px;
+    box-shadow:0 5px 10px #01B468;
+}
+.searchbook {
+    width:100%;
+    height:30px;
+    margin-top:5px;
+    line-height:30px;
+    font-weight:normal;
+    color:#b2b4b4;
+    border-radius:15px;
+    background:#eae7e7;
+}
+.footer{
+    position:fixed;
+    bottom:0px;
+    height:50px;
+    width:100%;
+    background:#ffffff;
+    border-top:1px solid #b2b4b4;
+}
+.bomtab a{
+    border:none;
+    margin-left:4px;
+    height:50px;
+    width:19%;
+    float:left;
+    box-shadow:-5px 5px 20px #888888;
+    text-align:center;
+    line-height:30px;
+    font-weight:bold;
+    font-family:"黑体";
+    font-size:14px;
+}
+.bomtab a:hover{
+    background:#b2b4b4;
+}
+.scfoot {
+    height:50px;
+    margin-top:10px;
+}
+.booklab {
+    margin-top:50px;
+    height:130px;
+}
+.booklab span {
+    margin-top:10px;
+    cursor:pointer;
+    font-size:20px;
+    display: inline-block;/*为标签设置这个属性才不会拥挤*/
+}
+.clstil {
+    height:20px;
+    font-size:16px;
+    line-height:20px;
+}
+.icoself {
+    height:20px;
+    width:5px;
+    float:left;
+    margin-left:5px;
+    background:#1ef53f;
+}
+.clsjing {
+    height:260px;
+}
+.mfbook {
+    width:75px;
+    height:120px;
+    float:left;
+    margin-left:5px;
+    margin-top:5px;
+}
+.mfbook img {
+    width:100%;
+    height:90px;
+}
+.bookname {
+    width:100%;
+    height:15px;
+    font-size:12px;
+    line-height:15px;
+    font-weight:bold;
+}
+.bookautor {
+    width:100%;
+    height:15px;
+    font-size:12px;
+    line-height:15px;
+    color:#b2b4b4;
+}
+.lookmore {
+    height:60px;
+    border-top:1px solid #b2b4b4;
+}
+.more {
+    margin-top:8px;
+}
+.bgk {
+    height:10px;
+    background:#dbdede;
+}
